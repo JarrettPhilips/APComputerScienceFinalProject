@@ -1,5 +1,5 @@
 # The Watershed Project
-**JArrett Philips, Liam McDonald**
+**Jarrett Philips, Liam McDonald**
 
 ### Objective
 The objective of this computer science project was to map out watershed and flow in a given location. We both knew that we wanted to do something having to do with the outdoors, as we both love being outside, but we weren’t sure what kind of project we wanted to do. Eventually we decided that a program that models the waterflow in a specific area would be the best combination of computer science and the outdoors that we love. although the object of our program is to show the way in which water flows in a certain area, our main objective of the project was to create a functioning program that both shows what we have learned in this computer science class, and what we ourselves are interested in. 
